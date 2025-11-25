@@ -37,7 +37,7 @@ Task Management App es una solución moderna y colaborativa para gestionar tarea
 
 1. **Clonar el repositorio**
    \`\`\`bash
-   git clone https://github.com/nicolasbriccas/v0-task-management-app.git
+   git clone https://github.com/bricca1/v0-task-management-app
    cd v0-task-management-app
    \`\`\`
 
