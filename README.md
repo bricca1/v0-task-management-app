@@ -26,6 +26,41 @@ Task Management App es una solución moderna y colaborativa para gestionar tarea
 4. **Eliminar una Tarea** - Haz click en el ícono de eliminar y confirma la acción
 5. **Ver Tour** - Haz click en el ícono "?" en la esquina superior derecha para ver el recorrido
 
+## Getting Started
+
+### Requisitos Previos
+
+- Node.js 18+ instalado
+- npm o yarn como gestor de paquetes
+
+### Instalación Local
+
+1. **Clonar el repositorio**
+   \`\`\`bash
+   git clone https://github.com/nicolasbriccas/v0-task-management-app.git
+   cd v0-task-management-app
+   \`\`\`
+
+2. **Instalar dependencias**
+   \`\`\`bash
+   npm install
+   \`\`\`
+
+3. **Ejecutar el servidor de desarrollo**
+   \`\`\`bash
+   npm run dev
+   \`\`\`
+
+4. **Abrir en el navegador**
+   - Ve a [http://localhost:3000](http://localhost:3000)
+
+### Comandos Disponibles
+
+- `npm run dev` - Inicia el servidor de desarrollo
+- `npm run build` - Construye la aplicación para producción
+- `npm run start` - Inicia el servidor de producción
+- `npm run lint` - Ejecuta el linter del proyecto
+
 ## Stack Tecnológico
 
 - **Frontend** - Next.js 16, React 19, TypeScript
